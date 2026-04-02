@@ -43,3 +43,9 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+
+# 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=abdulrahman2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
+</div>
