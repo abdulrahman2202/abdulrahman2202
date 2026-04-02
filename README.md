@@ -49,3 +49,11 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdulrahman2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div>
+
+## 🟡 Pacman Contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahman2202/abdulrahman2202/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrahman2202/abdulrahman2202/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulrahman2202/abdulrahman2202/output/pacman-contribution-graph.svg">
+</picture>
