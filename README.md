@@ -57,3 +57,6 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrahman2202/abdulrahman2202/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdulrahman2202/abdulrahman2202/output/pacman-contribution-graph.svg">
 </picture>
+
+
+⭐ Thanks for visiting my profile!
