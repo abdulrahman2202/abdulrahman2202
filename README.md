@@ -44,6 +44,10 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 
+## 📈 Contribution Graph
+
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman2202&bg_color=000000&color=ff6a00&line=ff3c38&point=ff6a00&area=true&hide_border=true)
+
 # 📊 GitHub Stats
 
 <div align="center">
