@@ -47,9 +47,9 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
 ## 📈 Contribution Graph
 
 ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulrahman2202&bg_color=000000&color=ff6a00&line=ff3c38&point=ff6a00&area=true&hide_border=true)
-
+<!--
 # 📊 GitHub Stats
-
+-->
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdulrahman2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
 </div> -->
