@@ -50,9 +50,9 @@ I am a passionate Full Stack Developer, Software Engineer, and AI Developer with
 
 # 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=abdulrahman2202&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="250" alt="streak graph"  />
-</div>
+</div> -->
 
 ## 🟡 Pacman Contribution
 
